@@ -23,3 +23,11 @@ How to use:
 - The .exe will generate in this folder (location may vary) - C++ FUD Reverse Shell\TcpReverseShell-main\C++ Reverse Shell FUD 2022\x64
 - Run your .exe file and voila - no detection, no bullshit just pure reverse shell connection to your netcat listener server.
 
+I don't think I should tell you this but:
+Don't fuckin upload the .exe file here and there, all the file uploading websites have antivirus and bots running 24/7 which will fuck this .exe and this can't be made FUD again. Also, don't upload this .exe to any stupid malware scanning website for checking other than antiscan.me but I'll suggest that if it is bypassing defender on your pc, it's all good.
+
+Contact:
+Discord - Sujal#7581
+Telegram - @sujalshreshyash
+Twitter - @sujalshreshaysh
+
