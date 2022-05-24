@@ -14,6 +14,10 @@ antiscan.me results:
 
 ![image](https://user-images.githubusercontent.com/105509101/169944742-31cd2d0c-1cf6-43e5-99cf-9341f74a2949.png)
 
+Requirements:
+- C++ fully installed in Visual Studio Code 2022
+- Static IP of the server/pc on which you'll run your listener. If you wanna use VPS, try Digitalocean.
+
 
 How to use:
 - Open the TcpReverseShell.sln and navigate to TcpReverseShell.cpp
@@ -28,7 +32,7 @@ Don't fuckin upload the .exe file here and there, all the file uploading website
 
 
 Contact:
-Discord - Sujal#7581
-Telegram - @sujalshreshyash
-Twitter - @sujalshreshaysh
+- Discord - Sujal#7581
+- Telegram - @sujalshreshyash
+- Twitter - @sujalshreshaysh
 
