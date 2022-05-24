@@ -26,6 +26,7 @@ How to use:
 I don't think I should tell you this but:
 Don't fuckin upload the .exe file here and there, all the file uploading websites have antivirus and bots running 24/7 which will fuck this .exe and this can't be made FUD again. Also, don't upload this .exe to any stupid malware scanning website for checking other than antiscan.me but I'll suggest that if it is bypassing defender on your pc, it's all good.
 
+
 Contact:
 Discord - Sujal#7581
 Telegram - @sujalshreshyash
